@@ -88,7 +88,7 @@ public class ScienCalculator
                     {
                         num1 = previousResult;
                     }
-                    else
+                    else //comment for my debugging thanggg
                     {
                         num1 = (Double.parseDouble(operand1));
                     }
